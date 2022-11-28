@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilkollepara1987
 - 👀 I’m interested in ... Machine Learning, Deep Learning and Natural Language Processing
-- 🌱 I’m currently learning ... Data Science
+- 🌱 I Completed Data Science and AI course
 - 💞️ I’m looking to collaborate on ... Machine Learning Projects
 - 📫 How to reach me ... mail me @ anilkollepara1987@gmail.com & ping me @ 8897477127
 
